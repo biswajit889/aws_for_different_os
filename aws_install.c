@@ -49,6 +49,7 @@ int main()
         else if (strcmp(more, "l") == 0)
         {
             printf("You have Choice is Linux");
+            
         }
 
         else
